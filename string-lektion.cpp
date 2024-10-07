@@ -26,4 +26,6 @@ int main()
         getline(cin, str);
 
         cout << "You entered: " << str << endl; */
+
+    cout << "Enter a string: ";
 }
