@@ -29,4 +29,5 @@ int main()
 
     cout << "Enter a string: ";
     cout << "You entered: " << cin.get() << endl;
+    cout << "test";
 }
