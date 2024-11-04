@@ -17,5 +17,6 @@ int main()
     cout << "Value of num: " << num << endl;
     cout << "Value of ptr: " << *ptr << endl;
 
+    int *ptr2 = new int(20);
     return 0;
 }
